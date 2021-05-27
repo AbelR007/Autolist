@@ -2,7 +2,7 @@
 
 Python Basic Library for Auto-Correct purposes using lists.
 
-**Download Autolist** : `pip install autolist`
+**Download Autolist** : `pip install autolist`<br>
 If the above didn't work, check if Python3 is working properly.
 
 ## Examples
