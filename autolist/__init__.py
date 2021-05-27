@@ -1,0 +1,1 @@
+from autolist.autocorrect_list import autocorrect_list
