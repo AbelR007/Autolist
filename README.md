@@ -3,8 +3,10 @@
 Python Basic Library for Auto-Correct purposes using lists.
 
 ## How to Use Autolist ?
-Type the below command in your windows terminal 
+Type the below command in your windows terminal :
+
 `pip install autolist` OR [Click this link](https://pypi.org/project/autolist/)
+
 If the above didn't work, check the following :
 - [Python3](https://www.python.org/) is working and is updated to the latest version
 - [Pip](https://pypi.org/project/pip/) is updated to the latest version
