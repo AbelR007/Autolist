@@ -29,13 +29,13 @@ print(al.autocorrect_list(string, correct_words_list))
 ## Functions
 - [X] autocorrect_list :
 Autocorrects mistyped words using the given correct words list
-- [] autocorrect :
+- [ ] autocorrect :
 Autocorrects words easily
-- [] accuracy_correction :
+- [ ] accuracy_correction :
 Corrects words with above 90% word accuracy
 
 _**We are ready to accept your suggestions.**_
 - Message me on Discord (AbelR007#5096)
 - Create an Issue in [Autolist Github](https://github.com/AbelR007/Autolist)
 
-# Created with ❤️ by AbelR007
+### Created with ❤️ by AbelR007
