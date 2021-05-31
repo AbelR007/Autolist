@@ -16,7 +16,7 @@ correct_words_list = ["autolist","advanced","listing"]
 string = "autosift" # Take input from user or Give a String
 
 # Autolist checks the list and corrects it using the following
-print(al.autocorrect_list(string, correct_words_list))
+print(al.autocorrect(string, correct_words_list))
 ```
 
 ## Application & Features
@@ -29,7 +29,7 @@ print(al.autocorrect_list(string, correct_words_list))
 ## Functions
 - [X] autocorrect_list :
 Autocorrects mistyped words using the given correct words list
-- [ ] autocorrect :
+- [X] autocorrect :
 Autocorrects words easily
 - [ ] accuracy_correction :
 Corrects words with above 90% word accuracy
@@ -39,3 +39,5 @@ _**We are ready to accept your suggestions.**_
 - Create an Issue in [Autolist Github](https://github.com/AbelR007/Autolist)
 
 ### Created with ❤️ by AbelR007
+
+![Thumbnail](https://github.com/AbelR007/Autolist/blob/main/img/AutoList%20Thumbnail.png?raw=true)
